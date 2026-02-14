@@ -718,10 +718,10 @@
                 <h2 class="section-title">Our Moments</h2>
                 <div class="gallery">
                     <div class="gallery-item placeholder">
-                        <img src="56f87c68-41fa-4080-8875-ee88af0a7ebb.jpg">
+                        <img src="./56f87c68-41fa-4080-8875-ee88af0a7ebb.jpg">
                     </div>
                     <div class="gallery-item placeholder">
-                        <img src="67e49691-6071-4805-b0dd-863b30107df9.jpg">
+                        <img src="./67e49691-6071-4805-b0dd-863b30107df9.jpg">
                     </div>
                     <div class="gallery-item placeholder">
                         <img src="6a518efa-21f2-45c0-8d92-17a6657aa258.jpg">
