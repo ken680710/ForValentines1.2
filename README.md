@@ -665,7 +665,7 @@
         </div>
     </div>
 
-    <!-- ===== MAIN CONTENT (YOUR ORIGINAL WEBSITE) ===== -->
+    <!-- ===== MAIN CONTENT ===== -->
     <div class="main-content" id="mainContent">
         <!-- Floating Hearts Background Animation -->
         <div class="hearts-container">
@@ -733,7 +733,7 @@
                         <img src="8d86cd5b-10d9-418c-88c7-614123d2c0ca.jpg" alt="Our moment together">
                     </div>
                     <div class="gallery-item">
-                        <img src="930888b2-407a-4468-82ff-13c5a17111ae.jpg" alt="Our moment together">
+                        <img src="92ab3bcf-c05b-4cd2-b089-7a459037ed63.jpg" alt="Our moment together">
                     </div>
                 </div>
             </section>
