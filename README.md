@@ -718,7 +718,7 @@
                 <h2 class="section-title">Our Moments</h2>
                 <div class="gallery">
                     <div class="gallery-item placeholder">
-                        <img src="[image/pic1.jpg](https://via.placeholder.com/400x300/ffb6c1/ffffff?text=Photo+1)">
+                        <img src="[[image/pic1.jpg](https://via.placeholder.com/400x300/ffb6c1/ffffff?text=Photo+1)](https://github.com/ken680710/ForValentines1.2/blob/main/56f87c68-41fa-4080-8875-ee88af0a7ebb.jpg)">
                     </div>
                     <div class="gallery-item placeholder">
                         <img src="[image/pic2.jpg](https://via.placeholder.com/400x300/ffb6c1/ffffff?text=Photo+1)">
