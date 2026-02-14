@@ -718,13 +718,13 @@
                 <h2 class="section-title">Our Moments</h2>
                 <div class="gallery">
                     <div class="gallery-item placeholder">
-                        <img src="image/pic1.jpg">
+                        <img src="[image/pic1.jpg](https://via.placeholder.com/400x300/ffb6c1/ffffff?text=Photo+1)">
                     </div>
                     <div class="gallery-item placeholder">
-                        <img src="image/pic2.jpg">
+                        <img src="[image/pic2.jpg](https://via.placeholder.com/400x300/ffb6c1/ffffff?text=Photo+1)">
                     </div>
                     <div class="gallery-item placeholder">
-                        <img src="image/pic3.jpg">
+                        <img src="[image/pic3.jpg](https://via.placeholder.com/400x300/ffb6c1/ffffff?text=Photo+1)">
                     </div>
                     <div class="gallery-item placeholder">
                         <img src="image/pic4.jpg">
