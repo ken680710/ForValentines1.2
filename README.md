@@ -1,5 +1,3 @@
-# ForValentines1.2
-for valentines
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -720,22 +718,22 @@ for valentines
                 <h2 class="section-title">Our Moments</h2>
                 <div class="gallery">
                     <div class="gallery-item placeholder">
-                        <img src="pic1.jpg">
+                        <img src="image/pic1.jpg">
                     </div>
                     <div class="gallery-item placeholder">
-                        <img src="pic2.jpg">
+                        <img src="image/pic2.jpg">
                     </div>
                     <div class="gallery-item placeholder">
-                        <img src="pic3.jpg">
+                        <img src="image/pic3.jpg">
                     </div>
                     <div class="gallery-item placeholder">
-                        <img src="pic4.jpg">
+                        <img src="image/pic4.jpg">
                     </div>
                     <div class="gallery-item placeholder">
-                        <img src="pic5.jpg">
+                        <img src="image/pic5.jpg">
                     </div>
                     <div class="gallery-item placeholder">
-                        <img src="pic7.jpg">
+                        <img src="image/pic7.jpg">
                     </div>
                 </div>
             </section>
