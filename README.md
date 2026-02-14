@@ -718,22 +718,22 @@
                 <h2 class="section-title">Our Moments</h2>
                 <div class="gallery">
                     <div class="gallery-item placeholder">
-                        <img src="[[image/pic1.jpg](https://via.placeholder.com/400x300/ffb6c1/ffffff?text=Photo+1)](https://github.com/ken680710/ForValentines1.2/blob/main/56f87c68-41fa-4080-8875-ee88af0a7ebb.jpg)">
+                        <img src="56f87c68-41fa-4080-8875-ee88af0a7ebb.jpg">
                     </div>
                     <div class="gallery-item placeholder">
-                        <img src="[image/pic2.jpg](https://via.placeholder.com/400x300/ffb6c1/ffffff?text=Photo+1)">
+                        <img src="67e49691-6071-4805-b0dd-863b30107df9.jpg">
                     </div>
                     <div class="gallery-item placeholder">
-                        <img src="[image/pic3.jpg](https://via.placeholder.com/400x300/ffb6c1/ffffff?text=Photo+1)">
+                        <img src="6a518efa-21f2-45c0-8d92-17a6657aa258.jpg">
                     </div>
                     <div class="gallery-item placeholder">
-                        <img src="image/pic4.jpg">
+                        <img src="8d4e59c3-c84f-4a74-969d-2b803efbf8e3.jpg">
                     </div>
                     <div class="gallery-item placeholder">
-                        <img src="image/pic5.jpg">
+                        <img src="8d86cd5b-10d9-418c-88c7-614123d2c0ca.jpg">
                     </div>
                     <div class="gallery-item placeholder">
-                        <img src="image/pic7.jpg">
+                        <img src="930888b2-407a-4468-82ff-13c5a17111ae.jpg">
                     </div>
                 </div>
             </section>
